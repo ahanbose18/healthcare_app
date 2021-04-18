@@ -1,0 +1,18 @@
+.ecg{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 40px auto;
+}
+
+.heading{
+  text-align: center;
+  padding: 5px;
+  margin: 20px 10px auto;
+  color: #f4abc4;
+}
+
+.heading-sub{
+  text-align: center;
+  color: #595b83;
+}
